@@ -59,7 +59,7 @@
    ![image](https://user-images.githubusercontent.com/114386080/195006824-52e101ed-d737-46b5-b274-2814d958cf1b.png)
 
 
-4...FastAPI with dockerhub
+
 
 
 
