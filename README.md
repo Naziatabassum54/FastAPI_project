@@ -44,7 +44,8 @@ Docker Commands
 10.docker rmi -f id
     This command kills the running container forcefully.
     
-    ![image](https://user-images.githubusercontent.com/114386080/195004071-a80d5611-ee95-414a-b143-606386c092b9.png)
+  ![image](https://user-images.githubusercontent.com/114386080/195006100-587cee12-1bf0-46e0-bb33-2059a56040c7.png)
+
 
 
 
