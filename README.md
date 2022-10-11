@@ -7,15 +7,18 @@ Docker Commands
 
 2.docker --version
      This command is used to display the version of docker installed.
-     
-     ![image](https://user-images.githubusercontent.com/114386080/195002372-e0ffe4cc-03c6-43fb-9208-f0affcad3a2a.png)
+   
+   ![image](https://user-images.githubusercontent.com/114386080/195005110-e674276d-8509-4c4a-9aea-a98deb791c5e.png)
 
-
+ 
 3.docker images
     This command displays all the images available
     
-    ![image](https://user-images.githubusercontent.com/114386080/195002719-ae5b10fb-bcb5-4974-bf98-7d7a5c3b6a76.png)
+    ![image](https://user-images.githubusercontent.com/114386080/195005550-42b9daf4-714b-46a0-ae68-d9197df26e43.png)
 
+![image](https://user-images.githubusercontent.com/114386080/195005659-6497ecc8-29c1-4f4b-91b3-4fa2231899c5.png)
+
+  
 4. docker push
     This command push image to docker hub.
     
