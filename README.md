@@ -1,4 +1,4 @@
-Docker Commands
+1...Docker Commands
 
 1.docker 
    This command display all the available docker commands. 
@@ -46,10 +46,17 @@ Docker Commands
     
   ![image](https://user-images.githubusercontent.com/114386080/195006100-587cee12-1bf0-46e0-bb33-2059a56040c7.png)
 
+2...Welcome--app locally
 
-Welcome-app with docker hub
+![image](https://user-images.githubusercontent.com/114386080/195007220-25a90220-216a-4cab-9788-068ba32b4cd1.png)
+
+
+
+
+
+3...Welcome-app with docker hub
     
-    ![image](https://user-images.githubusercontent.com/114386080/195006558-3efc0239-3559-4876-a810-40fc733d7500.png)
+   ![image](https://user-images.githubusercontent.com/114386080/195006824-52e101ed-d737-46b5-b274-2814d958cf1b.png)
 
 
 
