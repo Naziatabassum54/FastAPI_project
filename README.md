@@ -14,9 +14,7 @@ Docker Commands
 3.docker images
     This command displays all the images available
     
-    ![image](https://user-images.githubusercontent.com/114386080/195005550-42b9daf4-714b-46a0-ae68-d9197df26e43.png)
-
-![image](https://user-images.githubusercontent.com/114386080/195005659-6497ecc8-29c1-4f4b-91b3-4fa2231899c5.png)
+   ![image](https://user-images.githubusercontent.com/114386080/195005659-6497ecc8-29c1-4f4b-91b3-4fa2231899c5.png)
 
   
 4. docker push
@@ -40,7 +38,8 @@ Docker Commands
 9.docker kill id
     Kills the given container abruptly
 
-     ![image](https://user-images.githubusercontent.com/114386080/195003885-80c4c523-c852-4dc6-8954-1331046fd95c.png)
+  ![image](https://user-images.githubusercontent.com/114386080/195006003-5f2e2f1e-d33a-4baf-aefe-caf00134d3d5.png)
+
      
 10.docker rmi -f id
     This command kills the running container forcefully.
